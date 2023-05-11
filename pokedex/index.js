@@ -1,3 +1,4 @@
+// Code by Lucca Maliniak
 const search = document.querySelector('[pokemon-search]')
 const input = document.querySelector('[pokemon-id]')
 const pokemon_nome = document.querySelector('[pokemon-nome]')
