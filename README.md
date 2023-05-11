@@ -1,6 +1,6 @@
 # pokedex
 Pokedex with JS, HTML and CSS
 
-https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fsearch%2Fpikachu-gifs&psig=AOvVaw3k2GOoJXwYgYv_06xNA-Na&ust=1683861641599000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCPjJzMmn7P4CFQAAAAAdAAAAABAE
+![image](https://github.com/lucca-maliniak/pokedex/assets/65911515/823f8441-4cbb-4bb9-be86-91fa622ffbc1)
 
 Code by Lucca Maliniak
